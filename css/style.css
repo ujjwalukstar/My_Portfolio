@@ -541,3 +541,12 @@ form textarea {
         top: 100%;
     }
 }
+
+@media (max-width: 750px){
+    .about{
+        display: block;
+    }
+    .contact{
+        display: block;
+    }
+}
